@@ -1,0 +1,50 @@
+.started {
+    width: Fill (1,446px);
+height: Hug (1,548.58px);
+padding: 160px, 0px, 160px, 0px;
+gap: 10px;
+background-color: black;
+justify-content: center;
+margin-top: -40px;
+
+}
+
+.get3 {
+    width: 875.97px;
+    height: 142.63px;
+    top: -300px;
+    left: 250.5px;
+    position: relative;
+    
+
+}
+
+.mob{
+width: 544.09px;
+height: 1109.05px;
+top: -60px;
+left: 468.5px;
+position: relative;
+
+}
+
+.iconss{
+    width: 1011px;
+height: 159px;
+top: 160px;
+left: 217.5px;
+
+}
+
+.vision{
+width:100vw;
+height: Hug (876px);
+padding: 140px, 0px, 140px, 0px;
+gap: 82px;
+margin-bottom: 90px;
+
+}
+
+.vision img{
+    width: 100%;
+}
